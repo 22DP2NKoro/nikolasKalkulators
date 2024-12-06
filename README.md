@@ -1,1 +1,1 @@
-# nikolasKalkulators
+# Nikolas kalkulators
